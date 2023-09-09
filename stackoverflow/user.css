@@ -1,0 +1,48 @@
+#hot-network-questions {
+  display: none;
+}
+
+#announcement-banner {
+  display: none;
+}
+
+.js-freemium-cta {
+  display: none;
+}
+
+#left-sidebar {
+  display: none;
+}
+
+div.ff-sans:nth-child(15) {
+  display: none;
+}
+
+.s-topbar {
+  display: none;
+}
+
+div.s-sidebarwidget:nth-child(5) {
+  display: none;
+}
+
+div.s-sidebarwidget:nth-child(1) {
+  display: none;
+}
+
+.js-vote-down-btn, .js-vote-up-btn {
+  display: none;
+}
+
+.ml12 {
+  display: none;
+}
+
+#post-form {
+  display: none;
+}
+
+.ff-sans {
+  display: none;
+}
+

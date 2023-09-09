@@ -1,0 +1,35 @@
+#contents > div:nth-child(2) {
+  display: none;
+}
+
+/* Left column*/
+div.pure-u-lg-1-5:nth-child(1) {
+  display: none;
+}
+
+/* Center column */
+.pure-u-lg-3-5 {
+  width: 100%;
+}
+
+/* Right column */
+div.pure-u-lg-1-5:nth-child(3) {
+  display: none;
+}
+
+#comments {
+  display: none;
+}
+
+#subscribe {
+  display: none;
+}
+
+div.h-box:nth-child(5) > h1:nth-child(1) {
+  font-size: 1.4rem;
+}
+
+div.pure-u-1-2:nth-child(1) > a:nth-child(1) > div:nth-child(1) > img:nth-child(1) {
+  width: 28px;
+}
+

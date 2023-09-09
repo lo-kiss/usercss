@@ -1,0 +1,128 @@
+/* Side bar hide stuff */
+#secondary-inner {
+  display: none;
+}
+
+/* Comments */
+#comments {
+  display: none;
+}
+
+/* Center the player */
+/* FIXME: this breaks the player */
+/* #columns {
+  justify-content: center;
+}
+
+#columns > div:nth-child(2) {
+  display: none;
+} */
+
+
+/* everything else */
+ytd-menu-renderer.style-scope.ytd-watch-metadata {
+  display: none;
+}
+
+#owner > div:nth-child(2) {
+  display: none;
+}
+
+yt-icon-button.ytd-masthead:nth-child(3) {
+  display: none;
+}
+
+#simple-box {
+  display: none;
+}
+
+ytd-video-owner-renderer.ytd-watch-metadata > div:nth-child(2) > yt-formatted-string:nth-child(2) {
+  display: none;
+}
+
+#info-container {
+  display: none;
+}
+
+#structured-description > div:nth-child(1) > ytd-video-description-infocards-section-renderer:nth-child(2) {
+  display: none;
+}
+
+#country-code {
+  display: none;
+}
+
+.annotation {
+  display: none;
+}
+
+ytd-button-renderer.ytd-masthead:nth-child(2) {
+  display: none;
+}
+
+#action-buttons {
+  display: none;
+}
+
+.more-button {
+  display: none;
+}
+
+#author-thumbnail {
+  display: none;
+}
+
+ytd-comments-header-renderer.style-scope {
+  margin-bottom: 0;
+}
+
+#metadata-line {
+  display: none;
+}
+
+.badge {
+  display: none;
+}
+
+#guide {
+  display: none;
+}
+
+ytd-rich-grid-renderer.style-scope > div:nth-child(1) {
+  display: none;
+}
+
+#video-count {
+  display: none;
+}
+
+#dot {
+  display: none;
+}
+
+ytd-search.style-scope > div:nth-child(1) > div:nth-child(1) {
+  display: none;
+}
+
+#info-section > div:nth-child(2) {
+  display: none;
+}
+
+#inner-header-container > div:nth-child(2) {
+  display: none;
+}
+
+ytd-channel-video-player-renderer.style-scope {
+  display: none;
+}
+
+#structured-description {
+  display: none;
+}
+
+
+
+/* ytd-rich-grid-renderer {
+  display: none;
+} */
+

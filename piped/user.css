@@ -1,0 +1,27 @@
+/* Hide comments and related */
+.grid {
+  display: none;
+}
+
+hr {
+  display: none;
+}
+
+/* Likes */
+div.gap-2:nth-child(2) {
+  display: none;
+}
+
+/* Views */
+.flex-auto > span:nth-child(1) {
+  display: none;
+}
+
+.flex-auto > span:nth-child(2) {
+  display: none;
+}
+
+div.w-full:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > img:nth-child(1) {
+  width: 28px;
+}
+
